@@ -1,0 +1,5 @@
+Dutch model from https://github.com/opensource-spraakherkenning-nl/Kaldi_NL
+
+Created from CGN_all/nnet3_online with
+LG_KrantenTT.3gpr.kn.int_UTwente_HMI_lexicon graph and const rescoring
+with KrantenTT_v1.0_KrantenTT.4gpr.kn.int
